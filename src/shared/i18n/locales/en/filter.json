@@ -1,1 +1,13 @@
-{}
+{
+	"title": "Filters",
+	"close": "Close filters",
+	"loading": "Loading filters...",
+	"error": "Unable to load filters.",
+	"apply": "Apply",
+	"cancel": "Cancel",
+	"confirm": "Confirm",
+	"confirmTitle": "Confirm changes?",
+	"confirmMessage": "Do you want to apply your selected filters?",
+	"selected": "Selected filters (JSON)",
+	"appTitle": "WinWinTravel"
+}
